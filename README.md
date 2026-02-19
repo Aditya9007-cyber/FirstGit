@@ -1,2 +1,3 @@
 # FirstGit
-First Official 
+First Official Repository
+Author - Aditya
